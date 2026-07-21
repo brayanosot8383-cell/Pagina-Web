@@ -1,2 +1,2 @@
 # Pagina-Web
-Prueba para aprender a usar github
+Prueba para aprender
